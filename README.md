@@ -1,4 +1,4 @@
-# Backup your mongoDb database to azure storage account using azure web jobs and logs in azure table. 
+# Backup your mongoDb database to azure storage account using azure web jobs and store logs in azure table. 
 
 ## Install Dependencies
 

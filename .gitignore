@@ -1,0 +1,6 @@
+node_modules
+.env
+logs
+!logs/README.md
+backups
+!backups/README.md

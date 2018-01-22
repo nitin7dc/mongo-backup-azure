@@ -1,0 +1,18 @@
+{
+  "name": "azure-mongo-backup",
+  "version": "1.0.0",
+  "description": "backup your mongodb database to an azure storage account using azure web jobs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Nitin Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "azure-storage": "2.7.0",
+    "dotenv": "4.0.0",
+    "mongodb-backup": "1.6.9",
+    "winston": "3.0.0-rc1",
+    "winston-azuretable": "1.0.8"
+  }
+}
